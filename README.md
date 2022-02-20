@@ -1,4 +1,4 @@
-# Equipe-Alameda-Jardins-Residence
+# Equipe Alameda Jardins Residence
 
 Integrantes do grupo: 
 - Willian Michel Tessarolo  - Front-End	      
